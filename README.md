@@ -12,7 +12,9 @@ https://en.wikipedia.org/wiki/List_of_Falcon\_9\_and_Falcon_Heavy_launches
 Objectives
 
 Web scrap Falcon 9 launch records with BeautifulSoup:
+
 •	Extract a Falcon 9 launch records HTML table from Wikipedia
+
 •	Parse the table and convert it into a Pandas data frame
 
 3. Data wrangling
@@ -23,14 +25,19 @@ landing outcomes into Training Labels with 1 means the booster successfully land
 Objectives
 
 Perform exploratory Data Analysis and determine Training Labels
+
 •	Exploratory Data Analysis
+
 •	Determine Training Labels
 
 4. Overview of the DataSet
 
 Using this Python notebook you will:
+
 •	Understand the SpacexDataSet
+
 •	Load the dataset into the corresponding table in a Db2 database
+
 •	Execute SQL queries to answer assignment questions
 
 5. Exploring and Preparing Data
@@ -38,7 +45,9 @@ Using this Python notebook you will:
 Objectives
 
 Perform exploratory Data Analysis and Feature Engineering using Pandas and Matplotlib
+
 •	Exploratory Data Analysis
+
 •	Preparing Data Feature Engineering
 
 
@@ -49,9 +58,13 @@ of rocket trajectories. Finding an optimal location for building a launch site c
 site locations.
 
 Objectives
+
 •	Mark all launch sites on a map
+
 •	Mark the success/failed launches for each site on the map
+
 •	Calculate the distances between a launch site to its proximities
+
 After completed the above tasks, we should be able to find some geographical patterns about launch sites.
 
 7. Building a Dashboard
@@ -63,9 +76,14 @@ To build a dashboard is necessary to analyze launch records.An interactive dashb
 Objectives
 
 Perform exploratory Data Analysis and determine Training Labels
+
 •	create a column for the class
+
 •	Standardize the data
+
 •	Split into training data and test data
+
 •	Find best Hyperparameter for SVM, Classification Trees and Logistic Regression
+
 •	Find the method performs best using test data
 
