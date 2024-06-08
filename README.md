@@ -19,7 +19,7 @@ Web scrap Falcon 9 launch records with BeautifulSoup:
 
 3. Data wrangling
 
-We will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models. We will mainly convert 
+We will perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models. Specifically, we will convert 
 landing outcomes into Training Labels with 1 means the booster successfully landed 0 means it was unsuccessful.
 
 Objectives
